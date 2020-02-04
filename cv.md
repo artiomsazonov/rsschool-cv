@@ -18,3 +18,7 @@ document.addEventListener('click', function (event) {
 var span = document.getElementsByClassName("cross")[0];
 span.onclick = function () {
     modal.hidden = !modal.hidden;}.
+6. https://flat.netlify.com; https://refresh-me.netlify.com
+7. 2010-2015: Mogilev State University named after A. Kuleshov. Maths, physics
+   2019: SkillUp IT -Academy: Front-end course; Training courses.
+8. English - Elementary(I'm raising the bar with a tutor).
